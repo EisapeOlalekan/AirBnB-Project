@@ -1,4 +1,7 @@
 # AirBnB-Project
+
+![0001](https://github.com/EisapeOlalekan/AirBnB-Project/assets/144741677/c69448ed-630a-4a00-bd6f-e3eedd67a21a)
+
 This report presents an analysis of Airbnb listings in New York, focusing on various parameters such as pricing, boroughs, date, and types of listings. The analysis aims to provide valuable insights into the Airbnb market in New York, helping hosts, guests, and stakeholders make informed decisions. The questions answered in this analysis include:
 
 What is the overall average listing price in New York? How many advertisements have been placed in total? Which borough is the most expensive for Airbnb listings? How does the number of listings vary across boroughs? What is the average listing price by quarter and month? What is the trend of listings by quarter and month?
@@ -50,4 +53,3 @@ Stakeholders can continue monitoring trends to adapt to changes in the Airbnb ma
 Conclusion:
 
 This analysis of Airbnb listings in New York provides essential insights into the market, offering valuable information for hosts, guests, and stakeholders. Understanding pricing dynamics, borough distribution, and seasonal trends is crucial for making informed decisions in the Airbnb ecosystem. Continued monitoring of these trends will enable stakeholders to adapt to changing market conditions and optimize their Airbnb experiences in New York City.
-![0001](https://github.com/EisapeOlalekan/AirBnB-Project/assets/144741677/c69448ed-630a-4a00-bd6f-e3eedd67a21a)
