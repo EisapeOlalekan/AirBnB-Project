@@ -50,3 +50,4 @@ Stakeholders can continue monitoring trends to adapt to changes in the Airbnb ma
 Conclusion:
 
 This analysis of Airbnb listings in New York provides essential insights into the market, offering valuable information for hosts, guests, and stakeholders. Understanding pricing dynamics, borough distribution, and seasonal trends is crucial for making informed decisions in the Airbnb ecosystem. Continued monitoring of these trends will enable stakeholders to adapt to changing market conditions and optimize their Airbnb experiences in New York City.
+![0001](https://github.com/EisapeOlalekan/AirBnB-Project/assets/144741677/c69448ed-630a-4a00-bd6f-e3eedd67a21a)
